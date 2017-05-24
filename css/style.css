@@ -1,0 +1,36 @@
+div{
+  background-color: green;
+  text-align: center;
+}
+
+.soccer{
+  color: blue;
+  text-decoration: bold;
+  text-decoration: underline;
+}
+
+table{
+  margin: auto;
+  border: 5px blue solid;
+  width: 200px;
+  height: 500px;
+  background-color:red;
+  
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+  border: 8px black;
+  color: blue;
+}
+.growing {
+  color:red;
+}
+.pictures {
+  margin: auto;
+  border: 10px red solid;
+  width: 400px;
+  height: 500px;
+  background-color:blue;
+}
